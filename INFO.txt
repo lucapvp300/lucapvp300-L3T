@@ -37,4 +37,4 @@ LINKS
   │
   └GITHUB       > https://github.com/lucapvp300/lucapvp300-L3T
       ├INFO     > https://github.com/lucapvp300/lucapvp300-L3T/blob/main/INFO.txt
-      └PLUGINS  > 
+      └PLUGINS  > https://github.com/lucapvp300/lucapvp300-L3T/tree/main/Plugins
