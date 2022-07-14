@@ -1,0 +1,40 @@
+---│ L3T |---
+by lucapvp300
+
+This is a ROBLOX Studio plugin that improves your peformance while developing your games.
+It has many useful tools and features like 4k PBR materials and API Packages.
+
+
+There are two avaliable options. DEMO and PREMIUM :
+
+---------------------------------------------
+	    FEATURES	       │DEMO│PREMIUM│
+---------------------------------------------
+- Tasklist      	       │ YES│  YES  │
+- Themes         	       │ YES│  YES  │
+- Displays      	       │ YES│  YES  │
+- Instance Management          │ YES│  YES  │
+- Tools     		       │ YES│  YES  │
+- Console Saves                │ 5  │   ∞   │
+- Premium Packages   	       │ NO │  YES  │
+- PBR Materials    	       │ NO │  YES  │
+- DataStore Management         │ NO │  YES  │
+- Client/Server-Sided CMD      │ NO │  YES  │
+---------------------------------------------
+	   ROBUX PRICE         │FREE│  R$10 │
+---------------------------------------------
+
+
+Packages are auto-updated and downloaded using HTTP requests, so probally roblox studio will request a permission.
+
+
+LINKS
+  ├VERSIONS
+  │   ├DEMO     > 
+  │   └PREMIUM  > 
+  │
+  ├CREATOR      > https://www.roblox.com/users/880155886/profile
+  │
+  └GITHUB       > https://github.com/lucapvp300/lucapvp300-L3T
+      ├INFO     > https://github.com/lucapvp300/lucapvp300-L3T/blob/main/INFO.txt
+      └PLUGINS  > 
